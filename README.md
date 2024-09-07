@@ -7,6 +7,8 @@ This is a simple save file editor for the game "Ale & Tale Tavern" that allows y
 ## Features
 
 - Money
+- Durability
+- Item amount
 - Reputation
 - Cleanliness
 - Active Webs
